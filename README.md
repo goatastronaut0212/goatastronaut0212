@@ -2,3 +2,4 @@
 - 👀 I’m interested in computer and languages.
 - 🌱 I’m currently learning computer.
 - 💞️ I’m looking to collaborate on everywhere.
+- 📖 I know a little C, Go, JavaScript, TypeScript, React.
