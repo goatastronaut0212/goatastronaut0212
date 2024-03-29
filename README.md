@@ -2,4 +2,4 @@
 - 👀 I’m interested in computer and languages.
 - 🌱 I’m currently learning computer, workout and playing piano.
 - 💞️ I’m looking to collaborate on everywhere.
-- 📖 I know a little C, HTML, CSS, Go, Nix, JavaScript, TypeScript, React.
+- 📖 I know a little C, Makefile, HTML, CSS, Go, Nix, JavaScript, TypeScript, React.
