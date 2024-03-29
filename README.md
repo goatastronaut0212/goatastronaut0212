@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning computer, workout and playing piano.
 - 💞️ I’m looking to collaborate on everywhere.
 - 📖 I know a little C, Makefile, shell script, HTML, CSS, Go, Nix, JavaScript, TypeScript, React.
+- 💻 I am using NixOS.
