@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFB7C5&background=F6F6F600&center=true&random=true&width=435&lines=goatastronaut0212;The+little+waltz;I+%3C3+Open+Source)](https://git.io/typing-svg)
 
-- 👀 I’m interested in computer and languages.
-- 🌱 I’m currently learning computer, workout and playing piano.
-- 💞️ I’m looking to collaborate on everywhere.
+## Hobby
+
+- I love computer and technology. 💻
+- I love playing piano and workout. 🎹 + 💪
+- I also love cute things too! ❤️
 
 ## Programming languages and technologies
 
