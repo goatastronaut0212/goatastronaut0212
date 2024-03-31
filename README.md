@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @goatastronaut0212.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFB7C5&background=F6F6F600&center=true&random=true&width=435&lines=goatastronaut0212;The+little+waltz;I+%3C3+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F6F6F6&background=FFB7C5&center=true&random=true&width=435&lines=goatastronaut0212;The+little+waltz;I+%3C3+Open+Source)](https://git.io/typing-svg)
 
 ## Hobby
 
