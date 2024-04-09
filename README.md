@@ -10,7 +10,7 @@
 
 ## Programming languages and technologies
 
-I know a little but enough for write good software for you 💝
+I know a little but enough to write good software for you 💝
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=gnu-make&logoColor=white)](https://www.gnu.org/software/make/)
