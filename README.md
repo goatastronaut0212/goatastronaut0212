@@ -29,7 +29,7 @@ I know a little but enough to write good software for you 💝
 
 ## Operating Systems
 
-I prefer NixOS. But just drop me into any OS, I will hack for your kind!
+I prefer Gentoo. But just drop me into any OS, I will hack for your kind!
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
@@ -42,7 +42,7 @@ I prefer NixOS. But just drop me into any OS, I will hack for your kind!
 
 ## Things I want to do
 
-- Relearn piano again T.T but I will try hard again :D.
+- Relearn piano again T.T but I will try hard again :D
 - Contribute to ibus-bamboo project
-- Contribute to Nixpkgs
+- Contribute to Gentoo project
 - Deploy my own blog
