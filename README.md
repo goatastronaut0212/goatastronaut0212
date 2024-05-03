@@ -32,13 +32,8 @@ I know a little but enough to write good software for you 💝
 I prefer Gentoo. But just drop me into any OS, I will hack for your kind!
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
-[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
-[![OpenBSD](https://img.shields.io/badge/OpenBSD-FEF67A?style=for-the-badge&logo=openbsd&logoColor=black)](https://www.openbsd.org/)
-[![NetBSD](https://img.shields.io/badge/NetBSD-F05032?style=for-the-badge&logo=netbsd&logoColor=white)](https://www.netbsd.org/)
 
 ## Things I want to do
 
