@@ -29,7 +29,7 @@ I know a little but enough to write good software for you 💝
 
 ## Operating Systems
 
-I prefer Gentoo. But just drop me into any OS, I will hack for your kind!
+Why NixOS? Why you!!!
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
