@@ -41,3 +41,4 @@ Why NixOS? Why you!!!
 - Create Ecommerce website
 - Contribute to Nixpkgs projects
 - Deploy my own blog
+- Find intern job :O
