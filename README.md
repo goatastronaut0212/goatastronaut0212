@@ -38,5 +38,6 @@ Why NixOS? Why you!!!
 ## Things I want to do
 
 - Relearn piano again T.T but I will try hard again :D
+- Create Ecommerce website
 - Contribute to Nixpkgs projects
 - Deploy my own blog
