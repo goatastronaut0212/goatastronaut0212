@@ -42,3 +42,4 @@ Why NixOS? Why you!!!
 - Contribute to Nixpkgs projects
 - Deploy my own blog
 - Find intern job :O
+- Become a great software engineer
