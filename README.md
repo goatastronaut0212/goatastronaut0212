@@ -29,7 +29,7 @@ I know a little but enough to write good software for you 💝
 
 ## Operating Systems
 
-I am lazy now... Get the job done with Fedora.
+You know my system using. It is just I switch whenever I want to get a job done :D. But I am familiar with them.
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
