@@ -40,6 +40,7 @@ You know my system using. It is just I switch whenever I want to get a job done 
 - Relearn piano again T.T but I will try hard again :D
 - Create Ecommerce website
 - Port capt-driver to Nixpkgs
+- Port OpenProject to Nixpkgs
 - Contribute documentation about code to ibus-bamboo
 - Deploy my own blog
 - Find intern job :O
