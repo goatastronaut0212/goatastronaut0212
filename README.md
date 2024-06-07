@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F6F6F6&background=FFB7C5&center=true&random=true&width=435&lines=goatastronaut0212;The+little+waltz;I+%3C3+Open+Source)](https://git.io/typing-svg)
 
+## About this account
+
+This Github account only used for contributing Github Open Source Project. Yes and I used to host some personal project when I still in university and there won't be many hobby project I made will have in this repo so I used Gitlab to hosting my personal project. Thank you.
+
 ## Hobby
 
 - I love computer and technology. 💻
