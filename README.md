@@ -4,7 +4,7 @@
 
 ## About this account
 
-This Github account only used for contributing Github Open Source Project. Yes and I used to host some personal project when I still in university and there won't be many hobby project I made will have in this repo so I used Gitlab to hosting my personal project. Thank you.
+This Github account only used for contributing Github Open Source Project. Yes and I used to host some personal project when I still in university but overtime there won't be many hobby projects will have in Github in case you want to look my personal project, I used Gitlab to hosting my personal project. Thank you for your time when reading this.
 
 ## Hobby
 
