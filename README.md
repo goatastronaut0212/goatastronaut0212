@@ -42,7 +42,6 @@ You know my system using. It is just I switch whenever I want to get a job done 
 ## Things I want to do
 
 - Relearn piano again and I will try hard :D
-- Create Ecommerce website using Odoo
 - Port capt-driver to Nixpkgs
 - Port OpenProject to Nixpkgs
 - Create Golang music player with bubbletea TUI
