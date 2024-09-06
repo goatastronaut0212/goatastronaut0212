@@ -46,5 +46,4 @@ You know my system using. It is just I switch whenever I want to get a job done 
 - Create Golang music player with bubbletea TUI
 - Port LarkSuite to Nixpkgs
 - Deploy my own blog
-- In case Ibus bamboo is dead. It is time to for me to create fcitx5-lotus written in Go or improve Ibus
 - Become a great software engineer
