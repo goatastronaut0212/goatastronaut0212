@@ -43,7 +43,6 @@ You know my system using. It is just I switch whenever I want to get a job done 
 
 ## Things I want to do
 
-- Create Golang music player with bubbletea TUI
 - Port LarkSuite to Nixpkgs
 - Deploy my own blog
 - Become a great software engineer
