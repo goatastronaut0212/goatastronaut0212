@@ -43,7 +43,6 @@ You know my system using. It is just I switch whenever I want to get a job done 
 
 ## Things I want to do
 
-- Add nix flake to ibus-bamboo
 - Rewrite gtk C code to Go in ibus-bamboo
 - Add debug mode with logging in ibus-bamboo
 - Submit ibus-bamboo package to Fedora
