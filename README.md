@@ -45,6 +45,7 @@ You know my system using. It is just I switch whenever I want to get a job done 
 
 - Add nix flake to ibus-bamboo
 - Rewrite gtk C code to Go in ibus-bamboo
+- Add debug mode with logging in ibus-bamboo
 - Submit ibus-bamboo package to Fedora
 - Port LarkSuite to Nixpkgs
 - Deploy my own blog
