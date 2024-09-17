@@ -43,9 +43,11 @@ You know my system using. It is just I switch whenever I want to get a job done 
 
 ## Things I want to do
 
+- Deploy my own blog
 - Rewrite gtk C code to Go in ibus-bamboo
 - Add debug mode with logging in ibus-bamboo
 - Submit ibus-bamboo package to Fedora
+- Submit ibus-bamboo package to Gentoo
+- Submit ibus-bamboo package to Guix
 - Port LarkSuite to Nixpkgs
-- Deploy my own blog
 - Become a great software engineer
