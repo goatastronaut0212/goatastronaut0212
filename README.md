@@ -6,7 +6,7 @@
 
 Sponsor me at https://github.com/sponsors/goatastronaut0212
 
-This Github account only used for contributing Github Open Source Projects. Yes and I used to host some personal projects when I still in university but overtime there won't be many hobby projects in Github. In case you want to look my personal projects, I used Gitlab or my own Gitea server to hosting them. Thank you for your time when reading this.
+This Github account only used for contributing Github Open Source Projects. Yes and I used to host some personal projects when I still in university but overtime there won't be many hobby projects in Github. I set all of them to private but will on in case I want or anyone want to look at my project source code.
 
 ## Hobby
 
