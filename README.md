@@ -43,4 +43,5 @@ You know my system using. It is just I switch whenever I want to get a job done 
 ## Things I want to do
 
 - Deploy my own blog
+- Port remotegamepad to Nixpkgs
 - Port LarkSuite to Nixpkgs
