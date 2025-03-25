@@ -45,3 +45,4 @@ You know my system using. It is just I switch whenever I want to get a job done 
 - Complete new UI gotk4 for ibus-bamboo
 - Port LarkSuite to Nixpkgs
 - Port LarkSuite to Gentoo Guru
+- Port Capt-driver to Gentoo Guru
