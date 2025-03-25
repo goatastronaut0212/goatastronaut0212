@@ -44,3 +44,4 @@ You know my system using. It is just I switch whenever I want to get a job done 
 - Port remotegamepad to Nixpkgs
 - Complete new UI gotk4 for ibus-bamboo
 - Port LarkSuite to Nixpkgs
+- Port LarkSuite to Gentoo Guru
